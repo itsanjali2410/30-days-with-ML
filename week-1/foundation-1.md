@@ -10,7 +10,7 @@ it is divided into two main types-
  dimensionality reduction, density reduction(UL)
 
  formulas to remember 
- ![Classification](images/classification1.jpeg)
+ ![Classification](img/classification1.jpeg)
 
   
 
